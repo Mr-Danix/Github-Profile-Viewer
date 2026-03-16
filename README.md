@@ -6,7 +6,7 @@ A sleek, modern GitHub profile visualizer that transforms raw developer data int
 
 ## 🌍 Live Demo
 
-🔗 https://mr-danix.github.io/github-viewer-pro/
+https://mr-danix.github.io/Github-Profile-Viewer/
 
 ---
 
